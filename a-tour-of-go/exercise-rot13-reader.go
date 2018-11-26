@@ -1,6 +1,6 @@
 package main
 
-// Solution for: https://tour.golang.org/methods/23
+// solution for: https://tour.golang.org/methods/23
 
 import (
   "io"
